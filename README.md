@@ -11,7 +11,7 @@
 
 
 - ❤ Estudante de Analise e desenvolvimento de Sistemas
-- 👩‍💻Java | CSS | HTML | JavaScript | Flutter | Dart | Bootstrap | Spring MVC | Thymeleaf
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
