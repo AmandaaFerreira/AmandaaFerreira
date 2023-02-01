@@ -10,7 +10,7 @@
 </div>
 
 
-- ❤ Estudante de Analise e desenvolvimento de Sistemas
+- Estudante de Analise e desenvolvimento de Sistemas
 
 
 <div>
